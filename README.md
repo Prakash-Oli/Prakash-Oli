@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML<br>👯 I’m looking to collaborate on AI/ML<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning AI/Ml<br>💬 Ask me about DevOps<br>
+🔭 I’m currently working on Web Devlopment<br>👯 I’m looking to collaborate on Web Devlopment <br>🤝 I’m looking for help with Web Devlopment<br>🌱 I’m currently learning SOC+<br>💬 Ask me about C programming<br>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
