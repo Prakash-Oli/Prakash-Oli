@@ -1,37 +1,31 @@
-# 👋 Hi, I'm Prakash Oli!
+# 💫 About Me:
+🔭 I’m currently working on Web Devlopment<br>👯 I’m looking to collaborate on Web Devlopment <br>🤝 I’m looking for help with Web Devlopment<br>🌱 I’m currently learning SOC+<br>💬 Ask me about C programming<br>
 
-🔭 Building real-time dashboards & full-stack web apps  
-🌱 Learning SOC+ & advanced .NET security  
-💬 Ask me about C#, JavaScript APIs, Azure deployments  
-📫 prakasholi@email.com
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-## 💻 Tech Stack
-<div align="center">
-![Web](https://img.shields.io/badge/HTML-CSS-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-![Backend](https://img.shields.io/badge/C%23-.NET-PHP-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Database](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Cloud](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
-</div>
-
-## 🔥 Featured Projects
-### [PulseVue](https://your-deploy-url) - Real-Time Stock Dashboard
-Real-time quotes, watchlist, volatility alerts • **JS, Chart.js, StockData.org API**
-
-### NexMart - E-commerce Platform
-Full-stack shopping cart • **C#, .NET Core, MySQL**
-
-## 📊 GitHub Stats
-<div align="center">
-![Stats](https://github-readme-stats.vercel.app/api?username=Prakash-Oli&theme=radical&hide_border=false)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prakash-Oli&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Oli&theme=radical&layout=compact)
-</div>
+# 📊 GitHub Stats:
+!<br/>
+!<br/>
+!
 
 ## 🏆 GitHub Trophies
-<div align="center">
-![Trophies](https://github-profile-trophy.vercel.app/?username=Prakash-Oli&theme=radical&no-frame=false&no-bg=true)
-</div>
+!
+
+### ✍️ Random Dev Quote
+!
 
 ---
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=prakash-oli&type=github&color=3)](https://visitcount.itsvg.in)
+[!](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( [https://gprm.itsvg.in](https://gprm.itsvg.in) ) -->
