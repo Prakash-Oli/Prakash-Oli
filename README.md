@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building **PulseVue** - live stock dashboard with Chart.js  <br>👯 Looking for **frontend/backend** project collaborators  <br>🤝 Need help with **Jest testing** & **Azure deployment**  <br>🌱 Learning **React hooks** + **SOC+ cybersecurity**  <br>💬 Ask me about **REST APIs**, **responsive design**, **C#**  <br>⚡ Fun fact: My stock dashboard **auto-highlights 5% movers** 🚀<br>
+🔭 Building **StockPulse** - live stock dashboard with Chart.js  <br>👯 Looking for **frontend/backend** project collaborators  <br>🤝 Need help with **Jest testing** & **Azure deployment**  <br>🌱 Learning **React hooks** + **SOC+ cybersecurity**  <br>💬 Ask me about **REST APIs**, **responsive design**, **C#**  <br>⚡ Fun fact: My stock dashboard **auto-highlights 5% movers** 🚀<br>
 
 
 # 💻 Tech Stack:
