@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m building full-stack, desktop, and cloud-ready applications.
-👯 I’m open to collaborating on software projects, especially in AI, web development, and Azure.
-🤝 I’m always open to advice, mentorship, and project feedback.
-🌱 I’m currently learning Python, full-stack development, cloud deployment, and CI/CD.
+🔭 I’m building secure full-stack, desktop, and cloud-ready applications.<br/>
+👯 I’m open to collaborating on software development projects in web, cloud, and AI.<br/>
+🤝 I welcome feedback, mentorship, and opportunities to learn from experienced developers.<br/>
+🌱 I’m currently strengthening my skills in Python, full-stack development, cloud deployment, and CI/CD.<br/>
 💬 Ask me about Java, PHP, MySQL, Azure, Python, JavaFX, ASP.NET Core, and JavaScript.
 
 # 💻 Tech Stack:
